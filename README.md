@@ -96,3 +96,42 @@ void loop() {
 <img width="1042" height="634" alt="image" src="https://github.com/user-attachments/assets/9449d1ce-3ab8-4a44-8eaf-f6dad83e9835" />
 
 <img width="1042" height="634" alt="image" src="https://github.com/user-attachments/assets/2f765278-5f5e-407c-bc09-647f73459a9b" />
+Actividad 5/11/26
+Ejercicio 1
+Secuencia A: … 96
+Regla: Se van duplicando los números.
+Secuencia B: … 36
+Regla: Números con raíz cuadrada exacta.
+Secuencia C: … 🔼🔼🔼🔼🔼
+Regla: Aumenta la cantidad de triángulos de uno en uno.
+Secuencia D: … 95
+Regla: Al duplicado del numero anterior, se le suma 1.
+
+Ejercicio 2
+￼
+Elementos importantes que pueden afectar el plano
+1. Papelera
+Elementos que se pueden ignorar
+1. Pupitres
+2. Estudiantes
+3. Bolsos
+
+Ejercicio 3
+Errores
+1. El estudiante nunca se paro de su pupitre.
+2. Entro al laboratorio de química y se detuvo ahí.
+Algoritmo corregido
+1. Pararse del pupitre.
+2. Dirigirse a la puerta.
+3. Abrir la puerta.
+4. Salir del salón.
+5. Girar a la izquierda.
+6. Avanza hasta el final del pasillo donde están las escaleras.
+7. Gira a la izquierda.
+8. Gira de nuevo a la izquierda.
+9. Abrir la puerta.
+10. Entrar a la biblioteca.
+11. Cerrar la puerta.
+12. Detenerse.
+Explicación 
+Al algoritmo anterior le falto varios pasos que impedían que el estudiante pudiera seguir avanzando ya que ni siquiera se levantó del pupitre. No llego a la biblioteca si no al laboratorio de química. En el camino no abrió puertas y subió escaleras innecesarias.
